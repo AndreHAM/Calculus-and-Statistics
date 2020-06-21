@@ -5,7 +5,7 @@
 **Language/Software:** *mathematica vs 12*
 
 #### Abstract:
-Here I want to share some codes and tools that might be helpfull to teach (and learn) some topics on calculus. 
+Here I want to share some codes and tools that might be helpfull to teach (and learn) some topics of calculus. 
 
 Hope it helps and have fun!
 
