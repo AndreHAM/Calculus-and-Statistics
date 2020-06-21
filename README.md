@@ -13,3 +13,4 @@ Hope it helps and have fun!
 ### Content (for now):
 
 - Integral: Visualization of the Riemann Integral;
+- Taylor series: Visualization of the Taylor series of any function;
