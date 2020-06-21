@@ -2,7 +2,7 @@
 
 #### Codes and tools on calculus.
 
-<img src="https://user-images.githubusercontent.com/66641409/85236777-37a3d800-b3f7-11ea-8410-020ae2e8eef7.png" alt="drawing" width="300"/> <img src="https://user-images.githubusercontent.com/66641409/85235963-f0661900-b3ef-11ea-8818-f15b79730547.png" alt="drawing" width="300"/> 
+<img src="https://user-images.githubusercontent.com/66641409/85236777-37a3d800-b3f7-11ea-8410-020ae2e8eef7.png" alt="drawing" width="500"/> <img src="https://user-images.githubusercontent.com/66641409/85236813-9406f780-b3f7-11ea-95dc-3aa4dee811d3.png" alt="drawing" width="500"/> 
 
 **Language/Software:** *mathematica vs 12*
 
