@@ -10,14 +10,14 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndreHAM/Calculus/master) or click [here](https://mybinder.org/v2/gh/AndreHAM/Calculus/master "codes on Binder") to access these codes
 
 
-#### Abstract:
-Here I want to share some codes and tools that might be helpfull to teach (and learn) some topics of calculus. 
+### Abstract:
+>Codes and tools that might be helpfull to teach (and learn) some topics of calculus. 
 
-Hope it helps and have fun!
+>Hope it help, and have fun!
 
 _____
 
-#### Content (for now):
+### Content (for now):
 
 #### *Mathematica*
 
