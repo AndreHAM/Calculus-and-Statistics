@@ -11,7 +11,7 @@
 
 
 ### Abstract:
->Codes and tools that might be helpfull to teach (and learn) some topics of calculus. 
+>Codes and tools that might be helpfull to teach (and learn) some topics of calculus and statistics.
 
 >Hope it help, and have fun!
 
