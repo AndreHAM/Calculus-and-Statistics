@@ -12,7 +12,7 @@
 
 ### Abstract:
 >Codes and tools that might be helpfull to teach (and learn) some topics of calculus and statistics.
-
+>
 >Hope it help, and have fun!
 
 _____
@@ -25,3 +25,5 @@ _____
 - Taylor series: Visualization of the Taylor series of any function;
 
 #### *Python*
+
+- Tutorial: Least squares from scratch (Understanding linear regression);
